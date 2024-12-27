@@ -8,7 +8,7 @@ obj= s.SMTP("smtp.gmail.com", 587)
 obj.starttls() #tls= transport layer security
 
 #login
-obj.login("kumardigamberjha@gmail.com", "digamberjha@1099")
+obj.login("kumardigamberjha@gmail.com", "**********")
 
 #create message
 
